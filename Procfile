@@ -1,1 +1,1 @@
-worker: gitignore
+worker: npm start
